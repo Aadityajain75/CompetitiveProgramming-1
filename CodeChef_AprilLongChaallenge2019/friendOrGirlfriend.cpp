@@ -2,9 +2,9 @@
 #define ll long long
 using namespace std;
 int main() {
-	ll int T;
-	cin >> T;
-	while(T--) {
+	ll int t;
+	cin >> t;
+	while(t--) {
 		ll int N;
 		cin >> N;
 		string A;
