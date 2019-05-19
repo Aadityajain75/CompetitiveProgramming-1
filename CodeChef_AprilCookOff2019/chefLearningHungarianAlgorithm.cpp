@@ -2,7 +2,7 @@
 #define ll long long
 using namespace std;
 int main() {
-	int T;
+	int T; //testCases
 	cin >> T;
 	while(T--) {
 		int N;
